@@ -1,3 +1,4 @@
+#tuxbot
 tuxbot - Multi-Exchange Cryptocurrency arbitrage bot.
 
 A basic abitrage bot based on Minny-Trading-Bot. Please feel free to contibute. 
@@ -10,4 +11,4 @@ How to use...
 
 Ubuntu
 
-# sudo apt-get install ??
+sudo apt-get install ??
